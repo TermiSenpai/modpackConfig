@@ -66,3 +66,7 @@ launcher_cef_log.txt
 launcher_log.txt
 
 updateLog.txt
+
+config/bettervillage_general_.properties
+
+config/capturetomob_general_.properties

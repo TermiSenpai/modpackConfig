@@ -61,7 +61,7 @@
 	emuTargetSkeletons = true
 	#Percent chance for emu leggings to dodge projectile attacks.
 	#Range: 0.0 ~ 1.0
-	emuPantsDodgeChance = 0.50
+	emuPantsDodgeChance = 0.5
 	#Relative volume of cachalot whales compared to other animals. Note that irl they are the loudest animal. Turn this down if you find their clicks annoying.
 	#Range: 0.0 ~ 10.0
 	cachalotVolume = 6.0
