@@ -80,7 +80,7 @@
 #Integration with Project MMO
 [pmmo]
 	#Disable this if running Minecraft 1.16.3 and below
-	"Enable PMMO Integration" = true
+	"Enable PMMO Integration" = false
 	#Minimum Level Required to use Loyalty, 0 is none
 	#Range: > 0
 	"Loyalty Requirement" = 10
@@ -88,13 +88,13 @@
 [time]
 	#Time in ticks when the throwed items should dissapear
 	#Range: > 0
-	"Despawn Time" = 1200
+	"Despawn Time" = 12000
 	#Attack Speed Multiplier to charging
 	#Range: 0.0 ~ 256.0
 	"Charging Multiplier" = 3.0
 	#Time in ticks when throwed items lose their owner
 	#Range: > 0
-	"Lose Owner Time" = 140
+	"Lose Owner Time" = 1400
 
 #All Items Whitelisted will get default values
 [whitelist-items]
