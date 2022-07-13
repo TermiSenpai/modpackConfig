@@ -94,7 +94,7 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 30
+			separation = 50
 
 		#Settings for clay islands in the overworld sky
 		[worldgen.slime_islands.clay]

@@ -32,12 +32,12 @@
 	MaidFairyPowerPoint = 0.16
 	#Maid fairy's spawn probability (zombie is 100, enderman is 10)
 	#Range: > 0
-	MaidFairySpawnProbability = 70
+	MaidFairySpawnProbability = 50
 	#Loss power point after player death
 	#Range: 0.0 ~ 5.0
-	PlayerDeathLossPowerPoint = 1.0
+	PlayerDeathLossPowerPoint = 0.5
 	#Give a soul spell item for player first join
-	GiveSoulSpell = true
+	GiveSoulSpell = false
 	#Shrine Lamp Effect Cost (Power Point/Per Hour)
 	#Range: 0.0 ~ 1.7976931348623157E308
 	ShrineLampEffectCost = 0.9
@@ -46,5 +46,5 @@
 	ShrineLampMaxStorage = 100.0
 	#Shrine Lamp Max Range Of Absorb Power Point
 	#Range: > 0
-	ShrineLampMaxRange = 6
+	ShrineLampMaxRange = 10
 

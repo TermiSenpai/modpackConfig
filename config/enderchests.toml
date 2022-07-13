@@ -13,19 +13,19 @@ enable_in_world_coloring = true
 	large_capacity = ["minecraft:ender_eye"]
 	#Items that upgrade storage capacity by 3
 	#Each item can only be use once per chest
-	small_capacity_singleuse = []
+	small_capacity_singleuse = ["minecraft:netherite_ingot"]
 	#Items that upgrade storage capacity by 9
 	#Each item can only be use once per chest
-	large_capacity_singleuse = []
+	large_capacity_singleuse = ["minecraft:netherite_ingot"]
 
 #Adjust how many inventory slots are available
 [capacity_settings]
 	#Minimum capacity an EnderChest holds
 	#Range: 9 ~ 27
-	chest_size_min = 9
+	chest_size_min = 16
 	#Maximum capacity an EnderChest holds
 	#Range: 9 ~ 54
-	chest_size_max = 27
+	chest_size_max = 54
 
 [access_settings]
 	#When enabled these bags access a players vanilla EnderChest, if disabled they will only be a crafting ingredient

@@ -15,13 +15,13 @@ enable_in_world_coloring = true
 	pump = ["minecraft:piston"]
 	#Items that apply a small storage capacity upgrade
 	#Each item can only be use once per tank
-	small_capacity_singleuse = []
+	small_capacity_singleuse = ["minecraft:netherite_ingot"]
 	#Items that apply a large storage capacity upgrade
 	#Each item can only be use once per tank
-	large_capacity_singleuse = []
+	large_capacity_singleuse = ["minecraft:netherite_ingot"]
 	#Items that are used to increase the tanks internal transfer pump
 	#Each item can only be use once per tank
-	pump_singleuse = []
+	pump_singleuse = ["minecraft:netherite_ingot"]
 
 #Set the number of buckets a tank holds, how many pump upgrades can be applied, and the value of a storage upgrade
 [capacity_settings]
