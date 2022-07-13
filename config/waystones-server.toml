@@ -40,13 +40,13 @@
 	#These options apply to the optional Waystones button displayed in the inventory.
 	[server.inventoryButton]
 		#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
-		inventoryButton = "NONE"
+		inventoryButton = "any"
 		#The multiplier applied to the base xp cost when teleporting via the inventory button.
 		#Range: 0.0 ~ Infinity
 		inventoryButtonXpCostMultiplier = 0.0
 		#The cooldown between usages of the inventory button in seconds.
 		#Range: > 0
-		inventoryButtonCooldown = 300
+		inventoryButtonCooldown = 0
 
 	#These options apply to the global waystones.
 	[server.globalWaystones]
@@ -55,7 +55,7 @@
 		globalWaystonesXpCostMultiplier = 0.0
 		#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.
 		#Range: 0.0 ~ Infinity
-		globalWaystoneCooldownMultiplier = 1.0
+		globalWaystoneCooldownMultiplier = 0.0
 		#Set to false to allow non-creative players to make waystones globally activated for all players.
 		globalWaystoneRequiresCreative = false
 
@@ -66,10 +66,10 @@
 		warpStoneXpCostMultiplier = 0.0
 		#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
 		#Range: > 0
-		warpStoneCooldown = 120
+		warpStoneCooldown = 0
 		#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
 		#Range: > 1
-		warpStoneUseTime = 100
+		warpStoneUseTime = 0
 
 	#These options apply to teleporting using the scroll items.
 	[server.scrolls]
@@ -105,5 +105,5 @@
 		#If enabled, only creative players can place, edit or break waystones. This does NOT disable the crafting recipe.
 		restrictToCreative = false
 		#If enabled, waystones generated in worldgen are unbreakable.
-		generatedWaystonesUnbreakable = true
+		generatedWaystonesUnbreakable = false
 
