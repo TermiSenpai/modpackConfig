@@ -1,6 +1,4 @@
 
-*.json
-
 *.xml
 
 assets/*
@@ -38,3 +36,25 @@ versions/*
 webcache2/*
 
 *.bin
+
+launcher_accounts.json
+
+launcher_entitlements.json
+
+launcher_gamer_pics.json
+
+launcher_product_state.json
+
+launcher_profiles.json
+
+launcher_settings.json
+
+launcher_ui_state.json
+
+patchouli_data.json
+
+treatment_tags.json
+
+usercache.json
+
+usernamecache.json
