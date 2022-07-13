@@ -15,5 +15,5 @@
 	#Range: 256 ~ 2048
 	teleport_height = 320
 	#This sets whether the totem prevents you from dying in the void if there is a totem anywhere in your inventory. If false the totem has to been in the main-/offhand or in the charm slot (curios api has to be installed).
-	use_totem_from_inventory = false
+	use_totem_from_inventory = true
 
