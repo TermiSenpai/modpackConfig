@@ -1,0 +1,298 @@
+
+#Reworked smelting options
+[smelting]
+	#When enabled, ingots require two raw ore materials to be smelted
+	#Default: true
+	#Set this to false to only require one raw ore per ingot
+	ingotsRequireTwoOre = true
+	#Allows the player to smelt ingots from ore blocks, not just raw ores chunk
+	#Default: false
+	#Turn on in case it is needed by other mods
+	allowSmeltingFromOreBlock = false
+
+#Vanilla crafting changes
+[crafting_changes]
+	#When enabled, crafting a smeltery will require a campfire and a block of clay
+	#Default: true
+	#Set this to false to make it equal to the vanilla furnace recipe
+	requireCampfireForSmeltery = true
+	#When set to false, the campfire crafting recipe will not require coal/charcoal
+	#Default: false
+	#Set this to true to reset the vanilla recipe
+	requireCoalForCampfire = false
+	#Changes the blast furnace crafting to use invar instead of iron
+	#Default: true
+	changeBlastFurnaceCrafting = true
+	#Changes the smoker crafting to be consistent with other furnaces
+	#Default: true
+	changeSmokerCrafting = true
+	#Makes netherite tools and armor craftable the same way as other tools and armor
+	#Default: true
+	#Set this to false to re-enable the vanilla crafting with the smithing table
+	consistentNetheriteCrafting = true
+	#When enable, disables the crafting recipes for diamond tools
+	#Default: true, since ReworkedMetals replace diamond tools with steel tools
+	#Set this to false to make diamond tools craftable
+	disableDiamondsCrafting = true
+	#Adds more recipes to the campfire and the smoker so they don't need furnaces
+	#Default: true
+	additionalCookingRecipes = true
+	#Adds more recipes to the stonecutter so they don't need furnaces
+	#Default: true
+	additionalStonecuttingRecipes = true
+	#Allows the stonecutter to be crafted with aluminum instead of iron
+	#Default: true
+	stonecutterAllowsAluminum = true
+
+#Blocks crafting
+[blocks_crafting]
+	#Enables crafting block of copper
+	#Default: true
+	enableCopperBlock = true
+	#Enables crafting block of raw copper
+	#Default: true
+	enableRawCopperBlock = true
+	#Enables crafting block of tin
+	#Default: true
+	enableTinBlock = true
+	#Enables crafting block of raw tin
+	#Default: true
+	enableRawTinBlock = true
+	#Enables crafting block of aluminum
+	#Default: true
+	enableAluminumBlock = true
+	#Enables crafting block of raw aluminum
+	#Default: true
+	enableRawAluminumBlock = true
+	#Enables crafting block of bronze
+	#Default: true
+	enableBronzeBlock = true
+	#Enables crafting block of silver
+	#Default: true
+	enableSilverBlock = true
+	#Enables crafting block of raw silver
+	#Default: true
+	enableRawSilverBlock = true
+	#Enables crafting block of nickel
+	#Default: true
+	enableNickelBlock = true
+	#Enables crafting block of raw nickel
+	#Default: true
+	enableRawNickelBlock = true
+	#Enables crafting block of invar
+	#Default: true
+	enableInvarBlock = true
+	#Enables crafting block of steel
+	#Default: true
+	enableSteelBlock = true
+	#Enables crafting block of ruby
+	#Default: true
+	enableRubyBlock = true
+
+#Copper ore generation
+[copper_ore_gen]
+	#Enables natural generation of copper ore
+	#Default: true
+	#Set this to false to disable copper ore generation
+	copperOreGenEnabled = true
+	#Max size of a copper ore vein
+	#Default value: 10
+	#Range: 1 ~ 32
+	copperVeinSize = 10
+	#Max height at which copper can generate
+	#Default value: 96
+	#Range: 0 ~ 256
+	copperMaxHeight = 96
+	#Min height at which copper can generate
+	#Default value: 32
+	#Range: 0 ~ 256
+	copperMinHeight = 32
+	#Min number of generation attempts for copper ore
+	#Default value: 10
+	#Range: 0 ~ 32
+	copperMinAttempts = 10
+	#Max number of generation attempts for copper ore
+	#Default value: 20
+	#Range: 0 ~ 32
+	copperMaxAttempts = 20
+
+#Tin ore generation
+[tin_ore_gen]
+	#Enables natural generation of tin ore
+	#Default: true
+	#Set this to false to disable tin ore generation
+	tinOreGenEnabled = true
+	#Max size of a tin ore vein
+	#Default value: 10
+	#Range: 1 ~ 32
+	tinVeinSize = 10
+	#Max height at which tin can generate
+	#Default value: 96
+	#Range: 0 ~ 256
+	tinMaxHeight = 96
+	#Min height at which tin can generate
+	#Default value: 32
+	#Range: 0 ~ 256
+	tinMinHeight = 32
+	#Min number of generation attempts for tin ore
+	#Default value: 5
+	#Range: 0 ~ 32
+	tinMinAttempts = 5
+	#Max number of generation attempts for tin ore
+	#Default value: 15
+	#Range: 0 ~ 32
+	tinMaxAttempts = 15
+
+#Aluminum ore generation
+[aluminum_ore_gen]
+	#Enables natural generation of aluminum ore
+	#Default: true
+	#Set this to false to disable aluminum ore generation
+	aluminumOreGenEnabled = true
+	#Max size of a aluminum ore vein
+	#Default value: 9
+	#Range: 1 ~ 32
+	aluminumVeinSize = 9
+	#Max height at which aluminum can generate
+	#Default value: 64
+	#Range: 0 ~ 256
+	aluminumMaxHeight = 64
+	#Min height at which aluminum can generate
+	#Default value: 0
+	#Range: 0 ~ 256
+	aluminumMinHeight = 0
+	#Min number of generation attempts for aluminum ore
+	#Default value: 2
+	#Range: 0 ~ 32
+	aluminumMinAttempts = 2
+	#Max number of generation attempts for aluminum ore
+	#Default value: 8
+	#Range: 0 ~ 32
+	aluminumMaxAttempts = 8
+
+#Silver ore generation
+[silver_ore_gen]
+	#Enables natural generation of silver ore
+	#Default: true
+	#Set this to false to disable silver ore generation
+	silverOreGenEnabled = true
+	#Max size of a silver ore vein
+	#Default value: 9
+	#Range: 1 ~ 32
+	silverVeinSize = 9
+	#Max height at which silver can generate
+	#Default value: 32
+	#Range: 0 ~ 256
+	silverMaxHeight = 32
+	#Min height at which silver can generate
+	#Default value: 0
+	#Range: 0 ~ 256
+	silverMinHeight = 0
+	#Min number of generation attempts for silver ore
+	#Default value: 1
+	#Range: 0 ~ 32
+	silverMinAttempts = 1
+	#Max number of generation attempts for silver ore
+	#Default value: 3
+	#Range: 0 ~ 32
+	silverMaxAttempts = 3
+
+#Nickel ore generation
+[nickel_ore_gen]
+	#Enables natural generation of nickel ore
+	#Default: true
+	#Set this to false to disable nickel ore generation
+	nickelOreGenEnabled = true
+	#Max size of a nickel ore vein
+	#Default value: 8
+	#Range: 1 ~ 32
+	nickelVeinSize = 8
+	#Max height at which nickel can generate
+	#Default value: 24
+	#Range: 0 ~ 256
+	nickelMaxHeight = 24
+	#Min height at which nickel can generate
+	#Default value: 0
+	#Range: 0 ~ 256
+	nickelMinHeight = 0
+	#Min number of generation attempts for nickel ore
+	#Default value: 1
+	#Range: 0 ~ 32
+	nickelMinAttempts = 1
+	#Max number of generation attempts for nickel ore
+	#Default value: 2
+	#Range: 0 ~ 32
+	nickelMaxAttempts = 2
+
+#Ruby ore generation
+[ruby_ore_gen]
+	#Enables natural generation of ruby ore
+	#Default: true
+	#Set this to false to disable ruby ore generation
+	rubyOreGenEnabled = true
+	#Max height at which ruby can generate
+	#Default value: 32
+	#Range: 0 ~ 256
+	rubyMaxHeight = 32
+	#Min height at which ruby can generate
+	#Default value: 4
+	#Range: 0 ~ 256
+	rubyMinHeight = 4
+	#Min number of generation attempts for ruby ore
+	#Default value: 3
+	#Range: 0 ~ 32
+	rubyMinAttempts = 3
+	#Max number of generation attempts for ruby ore
+	#Default value: 8
+	#Range: 0 ~ 32
+	rubyMaxAttempts = 8
+
+#Tools crafting
+[tools_crafting]
+	#Enables crafting for copper tools
+	#Default: true
+	enableCopperTools = true
+	#Enables crafting for bronze tools
+	#Default: true
+	enableBronzeTools = true
+	#Enables upgrading iron tools with a diamond
+	#Default: true
+	enableIronDiamondTools = true
+	#Enables upgrading iron tools with an emerald
+	#Default: true
+	enableIronEmeraldTools = true
+	#Enables crafting for silver tools
+	#Default: true
+	enableSilverTools = true
+	#Enables upgrading silver tools with a ruby
+	#Default: true
+	enableSilverRubyTools = true
+	#Enables upgrading silver tools with a diamond
+	#Default: true
+	enableSilverDiamondTools = true
+	#Enables crafting for steel tools
+	#Default: true
+	enableSteelTools = true
+	#Enables upgrading steel tools with a diamond
+	#Default: true
+	enableSteelDiamondTools = true
+	#Enables upgrading steel tools with an emerald
+	#Default: true
+	enableSteelEmeraldTools = true
+	#Enables upgrading gold tools with a ruby
+	#Default: true
+	enableGoldRubyTools = true
+
+#Armor crafting
+[armor_crafting]
+	#Enables crafting for copper armor
+	enableCopperArmor = true
+	#Enables crafting for bronze armor
+	enableBronzeArmor = true
+	#Enables crafting for steel armor
+	enableSteelArmor = true
+	#Enables upgrading netherite armor to diamonded netherite
+	enableDiamondedNetheriteArmor = true
+	#Enables upgrading netherite armor to gilded netherite
+	enableGildedNetheriteArmor = true
+
