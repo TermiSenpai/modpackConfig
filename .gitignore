@@ -13,7 +13,7 @@ emojiful/*
 
 journeymap/* 
 
-*.txt
+
 
 libraries/*
 
@@ -58,3 +58,11 @@ treatment_tags.json
 usercache.json
 
 usernamecache.json
+
+clientId.txt
+
+launcher_cef_log.txt
+
+launcher_log.txt
+
+updateLog.txt
