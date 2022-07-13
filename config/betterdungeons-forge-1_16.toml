@@ -40,7 +40,7 @@
 		# The average number of chunks between adjacent Spider Dungeons.
 		# This controls how often Spider Dungeons spawn. Higher value = more rare.
 		# Default: 44
-		"Spider Dungeon Average Separation Distance" = 44
+		"Spider Dungeon Average Separation Distance" = 24
 		# List of dimensions that will have Spider Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
@@ -76,7 +76,7 @@
 		# The average number of chunks between adjacent Skeleton Dungeons.
 		# This controls how often Skeleton Dungeons spawn. Higher value = more rare.
 		# Default: 46
-		"Skeleton Dungeon Average Separation Distance" = 46
+		"Skeleton Dungeon Average Separation Distance" = 30
 		# List of dimensions that will have Skeleton Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
