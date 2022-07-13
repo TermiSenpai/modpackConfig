@@ -77,7 +77,7 @@ key_key.sneak:key.keyboard.left.shift
 key_key.sprint:key.keyboard.left.control
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
-key_key.chat:key.keyboard.t
+key_key.chat:key.keyboard.enter
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
@@ -89,7 +89,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -108,11 +108,11 @@ key_key.journeymap.minimap_type:key.keyboard.left.bracket
 key_key.journeymap.minimap_preset:key.keyboard.backslash
 key_key.journeymap.create_waypoint:key.keyboard.b
 key_key.journeymap.toggle_waypoints:key.keyboard.z
-key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b
+key_key.journeymap.fullscreen_create_waypoint:key.keyboard.unknown
 key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
 key_key.journeymap.map_toggle_alt:key.keyboard.j
-key_key.journeymap.fullscreen_waypoints:key.keyboard.b:CONTROL
-key_key.journeymap.minimap_toggle_alt:key.keyboard.j:CONTROL
+key_key.journeymap.fullscreen_waypoints:key.keyboard.unknown
+key_key.journeymap.minimap_toggle_alt:key.keyboard.unknown
 key_key.journeymap.fullscreen_options:key.keyboard.o
 key_key.journeymap.fullscreen.north:key.keyboard.up
 key_key.journeymap.fullscreen.south:key.keyboard.down
@@ -120,7 +120,7 @@ key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.h
 key_bloodmagic.keybind.open_holding:key.keyboard.unknown
-key_key.emotecraft.fastchoose:key.keyboard.b
+key_key.emotecraft.fastchoose:key.keyboard.unknown
 key_key.emotecraft.stop:key.keyboard.unknown
 key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
@@ -135,7 +135,7 @@ key_key.curios.open.desc:key.keyboard.unknown
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.cofh.mode_change_increment:key.keyboard.v
-key_key.cofh.mode_change_decrement:key.keyboard.b
+key_key.cofh.mode_change_decrement:key.keyboard.unknown
 key_wildfire_gender.key.gui:key.keyboard.g
 key_key.placeableitems.place_item:key.keyboard.left.shift
 key_key.titles.openTitleSelection:key.keyboard.t
@@ -145,7 +145,7 @@ key_Show comparison tooltip:key.keyboard.left.shift
 key_key.elenaidodge.dodge:key.keyboard.left.alt
 key_oreexcavation.key.excavate:key.mouse.4
 key_oreexcavation.key.shape_toggle:key.keyboard.v
-key_oreexcavation.key.shape_edit:key.keyboard.b
+key_oreexcavation.key.shape_edit:key.keyboard.unknown
 key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.keyboard.keypad.subtract
@@ -222,12 +222,12 @@ key_key.epicfight.switch_mode:key.keyboard.r
 key_key.epicfight.dodge:key.keyboard.left.shift
 key_key.epicfight.weapon_special_skill:key.mouse.left
 key_key.epicfight.skill_gui:key.keyboard.k
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.world.2
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
