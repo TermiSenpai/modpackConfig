@@ -1,0 +1,506 @@
+
+[custom_weaponry]
+
+	[custom_weaponry.sample]
+		registry_name = "modid:registryname"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.masters_katana]
+		registry_name = "dungeons_gear:masters_katana"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		impact = 1.4
+		armor_ignorance = 0.5
+		hit_at_once = 5
+
+	[custom_weaponry.dark_katana]
+		registry_name = "dungeons_gear:dark_katana"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		impact = 1.4
+		armor_ignorance = 0.3
+		hit_at_once = 3
+
+	[custom_weaponry.dg_katana]
+		registry_name = "dungeons_gear:katana"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.wf_katana]
+		registry_name = "ob_core:patreon_yy_katana"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		impact = 1.4
+		armor_ignorance = 0.7
+		hit_at_once = 5
+
+	[custom_weaponry.mw_spear]
+		registry_name = "mowziesmobs:spear"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 3
+	
+	[custom_weaponry.dg_spear]
+		registry_name = "dungeons_gear:spear"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 3
+
+	[custom_weaponry.dg_FortuneSpear]
+		registry_name = "dungeons_gear:fortune_spear"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 3
+
+	[custom_weaponry.dg_WhisperingSpear]
+		registry_name = "dungeons_gear:whispering_spear"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 3
+
+	[custom_weaponry.dg_SoulScythe]
+		registry_name = "dungeons_gear:soul_scythe"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		
+	[custom_weaponry.dg_FrostScythe]
+		registry_name = "dungeons_gear:frost_scythe"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.dg_JailorsScythe]
+		registry_name = "dungeons_gear:jailors_scythe"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.tc_Scythe]
+		registry_name = "tconstruct:scythe"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.Battlestaff]
+		registry_name = "dungeons_gear:battlestaff"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.Battlestaff_of_terror]
+		registry_name = "dungeons_gear:battlestaff_of_terror"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.Growing_staff]
+		registry_name = "dungeons_gear:growing_staff"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.glaive]
+		registry_name = "dungeons_gear:glaive"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.grave_bane]
+		registry_name = "dungeons_gear:grave_bane"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.venom_bane]
+		registry_name = "dungeons_gear:venom_glaive"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+	
+	[custom_weaponry.ChaoticStaff]
+		registry_name = "draconicevolution:chaotic_staff"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.DraconicStaff]
+		registry_name = "draconicevolution:draconic_staff"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.tc_dagger]
+		registry_name = "tconstruct:dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.2
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dagger_of_greed]
+		registry_name = "ob_aquamirae:dagger_of_greed"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.6
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.distortion_dagger]
+		registry_name = "ob_core:distortion_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.6
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.YingYang_dagger]
+		registry_name = "ob_core:patreon_yy_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.awful_dagger]
+		registry_name = "stalwart_dungeons:awful_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.2
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.mt_dagger]
+		registry_name = "mahoutsukai:dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.0
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.mt_TheRipper]
+		registry_name = "mahoutsukai:theripper"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.mw_poisson_dagger]
+		registry_name = "mowziesmobs:naga_fang_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.2
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.ext_iron_dagger]
+		registry_name = "extcaves:iron_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.2
+		armor_ignorance = 0.0
+		hit_at_once = 1
+	
+	[custom_weaponry.dg_double_dagger]
+		registry_name = "dungeons_gear:dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.frost_daggers]
+		registry_name = "dungeons_gear:fang_of_frost"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+	
+	[custom_weaponry.moon_daggers]
+		registry_name = "dungeons_gear:moon_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.shear_daggers]
+		registry_name = "dungeons_gear:shear_dagger"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.EternalKnife]
+		registry_name = "dungeons_gear:eternal_knife"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.SoulKnife]
+		registry_name = "dungeons_gear:soul_knife"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.TempestKnife]
+		registry_name = "dungeons_gear:tempest_knife"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.ResoluteTempestKnife]
+		registry_name = "dungeons_gear:resolute_tempest_knife"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.ChillGaleKnife]
+		registry_name = "dungeons_gear:chill_gale_knife"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+
+	[custom_weaponry.broadsword]
+		registry_name = "dungeons_gear:broadsword"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.8
+		armor_ignorance = 0.0
+		hit_at_once = 10
+
+	[custom_weaponry.GreatAxeblade]
+		registry_name = "dungeons_gear:great_axeblade"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.8
+		armor_ignorance = 0.0
+		hit_at_once = 10
+
+	[custom_weaponry.Boneclub]
+		registry_name = "dungeons_gear:boneclub"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.8
+		armor_ignorance = 0.0
+		hit_at_once = 10
+
+	[custom_weaponry.BoneCudgel]
+		registry_name = "dungeons_gear:bone_cudgel"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.8
+		armor_ignorance = 0.5
+		hit_at_once = 10
+
+	[custom_weaponry.InfernalForge]
+		registry_name = "cataclysm:infernal_forge"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.9
+		armor_ignorance = 0.5
+		hit_at_once = 10
+
+	[custom_weaponry.tc_cleaver]
+		registry_name = "tconstruct:cleaver"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.8
+		armor_ignorance = 0.0
+		hit_at_once = 10
+
+	[custom_weaponry.claymore]
+		registry_name = "mutantmore:withered_claymore"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.8
+		armor_ignorance = 0.0
+		hit_at_once = 10
+
+	[custom_weaponry.MaceOfDeath]
+		registry_name = "the_arcaneum:maceof_death"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		impact = 1.9
+		armor_ignorance = 0.5
+		hit_at_once = 10
+
+	[custom_weaponry.tc_axe]
+		registry_name = "tconstruct:hand_axe"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 6
+
+	[custom_weaponry.tc_Battleaxe]
+		registry_name = "tconstruct:broad_axe"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 6
+
+	[custom_weaponry.SunGrace]
+		registry_name = "dungeons_gear:suns_grace"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 6
+		
+	[custom_weaponry.GreatHammer]
+		registry_name = "dungeons_gear:great_hammer"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.7
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.GravityHammer]
+		registry_name = "dungeons_gear:hammer_of_gravity"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.7
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.Stormlander]
+		registry_name = "dungeons_gear:stormlander"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.7
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.Anchor]
+		registry_name = "dungeons_gear:anchor"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.EncrustedAnchor]
+		registry_name = "dungeons_gear:encrusted_anchor"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.5
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.Mace]
+		registry_name = "dungeons_gear:mace"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.6
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.Flail]
+		registry_name = "dungeons_gear:flail"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.6
+		armor_ignorance = 0.0
+		hit_at_once = 4
+
+	[custom_weaponry.tc_sword]
+		registry_name = "tconstruct:sword"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		impact = 1.4
+		armor_ignorance = 0.0
+		hit_at_once = 2
+	
+	[custom_weaponry.Shield]
+		registry_name = "alexmobs:shield_of_the_deep"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SHIELD"
+		impact = 0.0
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.replica]
+		registry_name = "mahoutsukai:replica"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SHIELD"
+		impact = 0.0
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+[custom_armor]
+
+	[custom_armor.sample]
+		registry_name = "modid:registryname"
+		weight = 0.0
+		stun_armor = 0.0
+
+	[custom_armor.FoxHood]
+		registry_name = "dungeons_gear:fox_hood"
+		weight = 5.0
+		stun_armor = 0.75
+
+[custom_entity]
+
+	[custom_entity.sample]
+		type_name = "modid:type_name"
+		texture_location = "modid:texture_location"
+		#Allowed Values: ZOMBIE, SKELETON, CREEPER, SPIDER, VINDICATOR
+		ai_type = "ZOMBIE"
+		impact = 0.5
+		armor_negation = 0.0
+		max_strikes = 1
+

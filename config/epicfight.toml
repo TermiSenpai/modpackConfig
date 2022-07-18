@@ -48,7 +48,7 @@
 		impact = 1.5
 		armor_ignorance = 0.0
 		hit_at_once = 3
-	
+
 	[custom_weaponry.dg_spear]
 		registry_name = "dungeons_gear:spear"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
@@ -80,7 +80,7 @@
 		impact = 1.4
 		armor_ignorance = 0.0
 		hit_at_once = 2
-		
+
 	[custom_weaponry.dg_FrostScythe]
 		registry_name = "dungeons_gear:frost_scythe"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
@@ -152,7 +152,7 @@
 		impact = 1.4
 		armor_ignorance = 0.0
 		hit_at_once = 2
-	
+
 	[custom_weaponry.ChaoticStaff]
 		registry_name = "draconicevolution:chaotic_staff"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
@@ -240,7 +240,7 @@
 		impact = 1.2
 		armor_ignorance = 0.0
 		hit_at_once = 1
-	
+
 	[custom_weaponry.dg_double_dagger]
 		registry_name = "dungeons_gear:dagger"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
@@ -256,7 +256,7 @@
 		impact = 1.4
 		armor_ignorance = 0.0
 		hit_at_once = 2
-	
+
 	[custom_weaponry.moon_daggers]
 		registry_name = "dungeons_gear:moon_dagger"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
@@ -400,7 +400,7 @@
 		impact = 1.5
 		armor_ignorance = 0.0
 		hit_at_once = 6
-		
+
 	[custom_weaponry.GreatHammer]
 		registry_name = "dungeons_gear:great_hammer"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
@@ -464,7 +464,7 @@
 		impact = 1.4
 		armor_ignorance = 0.0
 		hit_at_once = 2
-	
+
 	[custom_weaponry.Shield]
 		registry_name = "alexmobs:shield_of_the_deep"
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
