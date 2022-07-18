@@ -58,11 +58,11 @@ ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:3
+ofDynamicLights:1
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
-ofShowGlErrors:true
+ofShowGlErrors:false
 ofFastMath:false
 ofFastRender:false
 ofTranslucentBlocks:0

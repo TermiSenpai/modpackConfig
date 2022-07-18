@@ -12,7 +12,7 @@
 	enableVillagerTrades = true
 	#Enable Friendly Fire on Pets 
 	#If you dislike (or outright hate) your pets and would like to kill them, enable this feature. [true / false]
-	enableFriendlyPetFire = false
+	enableFriendlyPetFire = true
 	#Enable Librarian Villagers trading books enchanted with this mod's enchantments. 
 	#Disable this feature if you want to prevent this. [true / false]
 	enableEnchantmentTrades = true

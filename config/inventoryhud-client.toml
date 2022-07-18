@@ -9,7 +9,7 @@
 	#Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
-	byDefault = true
+	byDefault = false
 	#Animate recently picked up items
 	animatedInv = true
 	#Hide background if inventory is empty
@@ -75,7 +75,7 @@
 	invHalign = "LEFT"
 	#Inventory HUD position (X)
 	#Range: -9999 ~ 9999
-	xPos = 0
+	xPos = 92
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
 	yPos = 39
@@ -84,112 +84,112 @@
 	armValign = "BOTTOM"
 	#Armor HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	armHalign = "RIGHT"
+	armHalign = "LEFT"
 	#Armor HUD position (X)
 	#Range: -9999 ~ 9999
-	xArmPos = 90
+	xArmPos = 0
 	#Armor HUD position (Y)
 	#Range: -9999 ~ 9999
 	yArmPos = 70
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	potValign = "BOTTOM"
+	potValign = "CENTER"
 	#Potion HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	potHalign = "RIGHT"
+	potHalign = "LEFT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 153
+	xPotionPos = 0
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 70
+	yPotionPos = 43
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
-	helmPosX = 103
+	helmPosX = 23
 	#Helmet position (Y)
 	#Range: -9999 ~ 9999
-	helmPosY = 54
+	helmPosY = 70
 	#Chestplate position (X)
 	#Range: -9999 ~ 9999
-	chestPosX = 103
+	chestPosX = 23
 	#Chestplate position (Y)
 	#Range: -9999 ~ 9999
-	chestPosY = 37
+	chestPosY = 53
 	#Leggings position (X)
 	#Range: -9999 ~ 9999
-	legPosX = -103
+	legPosX = 23
 	#Leggings position (Y)
 	#Range: -9999 ~ 9999
-	legPosY = 54
+	legPosY = 36
 	#Boots position (X)
 	#Range: -9999 ~ 9999
-	bootPosX = -103
+	bootPosX = 23
 	#Boots position (Y)
 	#Range: -9999 ~ 9999
-	bootPosY = 37
+	bootPosY = 19
 	#MainHand position (X)
 	#Range: -9999 ~ 9999
-	mainPosX = 103
+	mainPosX = 63
 	#MainHand position (Y)
 	#Range: -9999 ~ 9999
-	mainPosY = 71
+	mainPosY = 70
 	#OffHand position (X)
 	#Range: -9999 ~ 9999
-	offPosX = -103
+	offPosX = 63
 	#OffHand position (Y)
 	#Range: -9999 ~ 9999
-	offPosY = 71
+	offPosY = 53
 	#Arrows position (X)
 	#Range: -9999 ~ 9999
-	arrPosX = 103
+	arrPosX = 158
 	#Arrows position (Y)
 	#Range: -9999 ~ 9999
-	arrPosY = 20
+	arrPosY = 16
 	#InvIcon position (X)
 	#Range: -9999 ~ 9999
-	invPosX = -103
+	invPosX = -105
 	#InvIcon position (Y)
 	#Range: -9999 ~ 9999
-	invPosY = 20
+	invPosY = 19
 	#Helmet horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	helmHal = "MIDDLE"
+	helmHal = "RIGHT"
 	#Helmet vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	helmVal = "BOTTOM"
 	#Chestplate horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	chestHal = "MIDDLE"
+	chestHal = "RIGHT"
 	#Chestplate vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	chestVal = "BOTTOM"
 	#Leggings horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	legHal = "MIDDLE"
+	legHal = "RIGHT"
 	#Leggings vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	legVal = "BOTTOM"
 	#Boots horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	bootHal = "MIDDLE"
+	bootHal = "RIGHT"
 	#Boots vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	bootVal = "BOTTOM"
 	#MainHand horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	mainHal = "MIDDLE"
+	mainHal = "RIGHT"
 	#MainHand vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	mainVal = "BOTTOM"
 	#OffHand horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	offHal = "MIDDLE"
+	offHal = "RIGHT"
 	#OffHand vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	offVal = "BOTTOM"
 	#Arrows horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	arrHal = "MIDDLE"
+	arrHal = "LEFT"
 	#Arrows vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	arrVal = "BOTTOM"

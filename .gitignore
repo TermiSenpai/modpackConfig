@@ -74,3 +74,5 @@ config/capturetomob_general_.properties
 config/MM2/info.json
 
 opf_cache/
+
+servers.dat_old
