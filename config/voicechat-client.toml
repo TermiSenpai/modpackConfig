@@ -3,13 +3,13 @@
 microphone_activation_type = "PTT"
 #The threshold for voice activation in dB
 #Range: -127.0 ~ 0.0
-voice_activation_threshold = -50.0
+voice_activation_threshold = -45.41212121212122
 #The voice chat volume
 #Range: 0.0 ~ 2.0
 voice_chat_volume = 2.0
 #The voice chat microphone amplification
 #Range: 0.0 ~ 4.0
-microphone_amplification = 1.0
+microphone_amplification = 2.0
 #The size of the audio output buffer in packets
 #Higher values mean a higher latency, but less crackles
 #Increase this value if you have an unstable internet connection
